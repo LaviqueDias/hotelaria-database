@@ -60,9 +60,9 @@ Nosso grupo optou por desenvolver um sistema voltado para o **gerenciamento de h
 
 ## 🧩 Estrutura do Banco de Dados
 
-### Modelo Lógico (BRModelo)
-O modelo lógico foi projetado respeitando as regras de negócio acima e com as devidas chaves estrangeiras e relacionamentos (1:N e N:N).
+### Modelo Lógico
 
+- [BRModelo](https://app.brmodeloweb.com/#!/publicview/690ac2a2c9a295152fa293cf)
 
 
 ## 🐘 Banco de Dados PostgreSQL com Docker
