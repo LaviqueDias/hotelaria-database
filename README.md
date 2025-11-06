@@ -115,7 +115,7 @@ networks:
 Para subir o container:
 
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 ## 🗃️ Criação do Esquema (DDL)
